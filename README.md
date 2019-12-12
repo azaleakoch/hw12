@@ -18,7 +18,7 @@ week 4: (actual coding!!)
 I spent a ridiculously long time calculating how to place everything and move it all. I also ended up having a lot of trouble with the end screens! I couldn't understand how to nest the if-and statements so the text would display correctly and while (haha like the loop) trying to put it all in a loop I crashed my code an embarrassingly large number of times. Also my claw/ball gets stuck on the left side if it moves too far and I am very frustrated about it.
 
 # completed work
-[code]() / [p5](https://editor.p5js.org/azaleakoch/sketches/M_9p1ceDW)
+[code](https://github.com/azaleakoch/hw12/blob/master/finalcode.js) / [p5](https://editor.p5js.org/azaleakoch/sketches/M_9p1ceDW)
 
 # links
 just [this color picker](https://www.w3schools.com/colors/colors_picker.asp) because i couldn't figure out yellow for some reason.
